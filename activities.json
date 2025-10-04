@@ -3,7 +3,7 @@
     {
       "sub": "賽事活動-南華定向隊",
       "eng": "Event-NWCSS OTeam",
-      "enable": false,
+      "enable": true,
       "pre": "<span style=\"color:red;\">> Deadline</span><br/>",
       "activities": [
         {
