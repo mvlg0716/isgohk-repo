@@ -19,6 +19,7 @@ Its simple. Currently, u can edit activities data by this repo.
 2. Edit file text according to their rule.
 3. Dont move data files.
 4. If u want to get authority to manage this repo, pls contact with the repo owner.
+5. THe data will be changed after 5min, when u had commited all update. Of cource, you can click raw to check update status to judge.
 
 ## Edit
 1. Change relative file content
