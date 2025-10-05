@@ -46,7 +46,7 @@
     {
       "sub": "資料檔案-南華定向隊",
       "eng": "Database-NWCSS OTeam",
-      "enable": false,
+      "enable": true,
       "pre": "Latest:",
       "activities": [
         {
