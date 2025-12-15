@@ -131,7 +131,7 @@
     {
       "sub": "活動專題3",
       "eng": "Activity Topic 3",
-      "enable": true,
+      "enable": false,
       "pre": "Latest:",
       "activities": [
         {
