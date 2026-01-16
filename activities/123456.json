@@ -7,10 +7,11 @@
   ],
   "stations": [
     {
-      "name": "station 1",
+      "name": "station 2",
       "date": "Jan.16th,2026",
-      "price": 1899,
+      "price": 699,
       "loc": "xxxx, HK",
       "image": "/images/googleMapAddress.png"
-}
+    }
   ]
+}
