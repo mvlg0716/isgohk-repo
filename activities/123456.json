@@ -12,20 +12,6 @@
       "price": 1899,
       "loc": "xxxx, HK",
       "image": "/images/googleMapAddress.png"
-    },
-    {
-      "name": "station 2",
-      "date": "Jan.16th,2026",
-      "price": 899,
-      "loc": "xxxx, HK",
-      "image": "/images/googleMapAddress.png"
-    },
-    {
-      "name": "station 2",
-      "date": "Jan.16th,2026",
-      "price": 699,
-      "loc": "xxxx, HK",
-      "image": "/images/googleMapAddress.png"
     }
   ]
 }
