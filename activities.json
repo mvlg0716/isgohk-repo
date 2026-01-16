@@ -34,6 +34,8 @@
           "deadline": "未開始 報名收集"
         },
         {
+          "id": "456789",
+          "enable_detail": true,
           "title": "TerraX 短途定向巡回賽-第九回合",
           "eng": "【NEW】TerraX Sprint Orienteering Tournament-R9",
           "cover": "/images/su_Logo1.png",
