@@ -105,6 +105,12 @@
           "eng": "灰常越野",
           "name": "灰常越野",
           "link": "http://www.verymuchsport.com"
+        },
+        {
+          "enable": true,
+          "eng": "NW Orienteering Team",
+          "name": "南華定向隊",
+          "link": "/nwot"
         }
       ]
     }
