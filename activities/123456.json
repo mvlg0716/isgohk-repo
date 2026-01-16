@@ -3,7 +3,8 @@
   "price": 3450,
   "link": "https://www.bing.com",
   "banner": [
-    "/images/ISGOrienteering.png"
+    "/images/ISGOrienteering.png",
+    "/images/googleMapAddress.png"
   ],
   "stations": [
     {
