@@ -16,7 +16,7 @@
         },
         {
           "id": "234567",
-          "enable_detail": true,
+          "enable_detail": false,
           "title": "【新】香港野外定向會錦標賽 2026 暨 香港定向排名聯賽 – 中/長距離 (08/03/2026)",
           "eng": "【NEW】Hong Kong Orienteering Club Championships 2026 cum Hong Kong Orienteering Ranking League - Middle/Long (08/03/2026)",
           "cover": "/images/su_Logo2.png",
@@ -25,7 +25,7 @@
         },
           {
           "id": "345678",
-          "enable_detail": true,
+          "enable_detail": false,
           "title": "【新】香港野外定向會錦標賽 2026 暨 香港定向排名聯賽 – 中/長距離 (08/03/2026)",
           "eng": "【NEW】Hong Kong Orienteering Club Championships 2026 cum Hong Kong Orienteering Ranking League - Middle/Long (08/03/2026)",
           "cover": "/images/su_Logo2.png",
@@ -34,7 +34,7 @@
         },
         {
           "id": "456789",
-          "enable_detail": true,
+          "enable_detail": false,
           "title": "TerraX 短途定向巡回賽-第九回合",
           "eng": "【NEW】TerraX Sprint Orienteering Tournament-R9",
           "cover": "/images/su_Logo1.png",
@@ -42,6 +42,7 @@
           "deadline": "未開始 報名收集"
         },
         {
+          "enable_detail": false,
           "title": "TerraX 短途定向巡回賽-第七回合",
           "eng": "TerraX Sprint Orienteering Tournament-R7",
           "cover": "/images/su_Logo2.png",
@@ -49,6 +50,7 @@
           "deadline": "未開始 報名收集"
         },
         {
+          "enable_detail": false,
           "title": "山海公城 中距離排名聯賽",
           "eng": "MOPC Middle Ranking",
           "cover": "/images/su_Logo1.png",
@@ -60,7 +62,7 @@
     {
       "sub": "資料檔案-南華定向隊",
       "eng": "Database-NWCSS OTeam",
-      "enable": true,
+      "enable": false,
       "pre": "Latest:",
       "activities": [
         {
