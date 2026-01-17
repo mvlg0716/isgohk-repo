@@ -7,6 +7,14 @@
       "pre": "<span style=\"color:red;\">> Deadline</span><br/>",
       "activities": [
         {
+          "title": "【新】ISGOrienteering Debut (08/03/2026) ",
+          "eng": "【NEW】ISGOrienteering Debut (08/03/2026) ",
+          "cover": "/images/su_Logo2.png",
+          "link": "https://isgorienteering.my.canva.site/20260308-isgo-event/",
+          "deadline": "未開始 報名收集"
+        },
+        {
+          "id": "123456",
           "enable_detail": true,
           "title": "【新】ISGOrienteering Debut (08/03/2026) ",
           "eng": "【NEW】ISGOrienteering Debut (08/03/2026) ",
@@ -42,7 +50,6 @@
           "deadline": "未開始 報名收集"
         },
         {
-          "enable_detail": false,
           "title": "TerraX 短途定向巡回賽-第七回合",
           "eng": "TerraX Sprint Orienteering Tournament-R7",
           "cover": "/images/su_Logo2.png",
@@ -50,7 +57,6 @@
           "deadline": "未開始 報名收集"
         },
         {
-          "enable_detail": false,
           "title": "山海公城 中距離排名聯賽",
           "eng": "MOPC Middle Ranking",
           "cover": "/images/su_Logo1.png",
