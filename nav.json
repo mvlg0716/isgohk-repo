@@ -43,10 +43,10 @@
           "link": "/terms"
         },
         {
-          "enable": false,
+          "enable": true,
           "eng": "...",
-          "name": "Test Race",
-          "link": "/contact"
+          "name": "ISGOrienteering DUBUT",
+          "link": "https://isgorienteering.com/20260308-isgo-event"
         }
       ]
     },
